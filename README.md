@@ -21,7 +21,7 @@ A standout feature is **Goal Challenges**, where users can pledge money toward t
 
 ## System Flow
 
-![System Flow Diagram](https://github.com/user-attachments/assets/b6f1dfa8-2108-4b46-8dbd-9382193f6ff9)
+![systemdiagram](https://github.com/user-attachments/assets/795e8c59-0938-4120-9431-02f74f1ff7b9)
 
 ---
 
